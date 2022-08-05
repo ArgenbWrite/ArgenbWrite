@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a home-grown web developer-drummer-artist-creative writer from San Diego, CA.
+
+Enjoy!
+
 <!--
 **ArgenbWrite/ArgenbWrite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
