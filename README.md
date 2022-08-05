@@ -1,12 +1,18 @@
-### Hi there 👋
+### Hello there! 👋
+
+***
 
 I'm a home-grown web developer-drummer-artist-creative writer from San Diego, CA.
 
-Here's a link to one of my stories if you're interested:
+Here's a link to one of my stories in case you're interested:
 
-[Short Fiction](https://github.com/ArgenbWrite/Short-Fiction)
+:star2:[Short Fiction](https://github.com/ArgenbWrite/Short-Fiction)
 
 Enjoy!
+
+:tropical_drink::blue_book:
+
+***
 
 <!--
 **ArgenbWrite/ArgenbWrite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
