@@ -2,6 +2,10 @@
 
 I'm a home-grown web developer-drummer-artist-creative writer from San Diego, CA.
 
+Here's a link to one of my stories if you're interested:
+
+[Short Fiction](https://github.com/ArgenbWrite/Short-Fiction)
+
 Enjoy!
 
 <!--
