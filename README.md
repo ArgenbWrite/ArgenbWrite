@@ -1,8 +1,29 @@
-# :comet: Hello there! 👋
+<div id="header" align="center">
+ <h1>
+  :comet: Hello there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
+ </h1>
+  <img src="https://media1.giphy.com/media/THKr9ClAOJAFa/giphy.gif?cid=ecf05e47oek35xg7kmuho7kdemepo0k5thno4jn8ud9f2pgs&rid=giphy.gif&ct=g" width="850"/>
+ 
+ <div id="badges">
+  <a href="https://www.linkedin.com/in/ricky-argenbright/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/argenbwrite/">
+    <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/ArgenbWRITE">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+ </div>
+  <div id="views">
+  <img src="https://profile-counter.glitch.me/ArgenbWrite/count.svg" alt="ArgenbWrite :: Visitor's Count" />
+ </div>
+</div>
 
 ***
 
-I'm a home-grown web developer-drummer-artist-creative writer from San Diego, CA.
+I'm a home-grown web developer from San Diego, CA who loves creative writing, drumming, and art with various mediums.
 
 ***
 
@@ -12,6 +33,8 @@ I'm a home-grown web developer-drummer-artist-creative writer from San Diego, CA
 
 ***
 ### :milky_way: Other Creative Works
+
+And links to some other creative things you might find entertaining:
 
 ***
 
