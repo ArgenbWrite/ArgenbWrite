@@ -34,7 +34,13 @@ I'm a home-grown web developer from San Diego, CA who loves creative writing, dr
 ***
 ### :milky_way: Other Creative Works
 
-And links to some other creative things you might find entertaining:
+Fun things I like to do in my free time and share with others. Enjoy!
+
+:computer: [Coding](https://github.com/HonorableAnomaly)
+
+:musical_score: [Drum Covers](https://www.youtube.com/user/IceShadow333)
+
+:video_game: [Game Time](https://www.youtube.com/c/RickyArgenbrightShadowFrost333/featured)
 
 ***
 
